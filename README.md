@@ -1,12 +1,6 @@
 # Sobre Mim:
 Olá! Sou o Petrus um jovem apaixonado por tecnologia e desenvolvimento, com 17 anos e atualmente estudante do Curso de Telecomunicações no IFCE (Instituto Federal do Ceará). Ao longo da minha jornada acadêmica e profissional, tenho me aprofundado no mundo do desenvolvimento web, buscando sempre integrar criatividade, funcionalidade e usabilidade nas soluções que desenvolvo.
 
-Com experiência prática em HTML, CSS, JavaScript e Node.js, tenho me desafiado constantemente a criar plataformas escaláveis e eficientes. Além disso, tenho explorado a integração de APIs para melhorar a dinâmica dos sites e sistemas que construo, proporcionando experiências mais fluidas e personalizadas aos usuários.
-
-Minha formação em Telecomunicações me permite olhar para a tecnologia com uma perspectiva mais ampla, entendendo como a infraestrutura digital e as redes de comunicação sustentam as soluções que construímos no ambiente web. Essa visão técnica tem sido essencial para meu desenvolvimento profissional e me impulsiona a aprender e aplicar novas tecnologias de forma contínua.
-
-Estou sempre em busca de novos desafios que me permitam expandir minhas habilidades e contribuir com projetos que impactem positivamente as pessoas e as empresas. Se você está em busca de alguém com vontade de aprender, inovar e enfrentar desafios, ficarei feliz em conversar e explorar possibilidades juntos.
-
 
 
 ## 🌐 Redes Sociais:
