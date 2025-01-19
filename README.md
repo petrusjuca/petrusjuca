@@ -1,8 +1,8 @@
-# 💫 About Me:
+# Sobre mim:
 Olá! Sou o Petrus um jovem apaixonado por tecnologia e desenvolvimento, com 17 anos e atualmente estudante do Curso de Telecomunicações no IFCE (Instituto Federal do Ceará).
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pwtrws) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/petrus-juca) 
 
 #
